@@ -17,6 +17,10 @@ body {
   justify-content: space-between;
   align-items: center;
 
+  img {
+    margin-top:20px;
+  }
+
   .bet {
     display: flex;
     gap: 30px;
